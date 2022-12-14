@@ -3,6 +3,7 @@
 <div align="center">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/c8/6f/d3/c86fd3074d75cfa3b81f3dc8e8e99458.jpg">
 </div>
+##
 <div align="center">
   <a href="https://github.com/alexkonstant">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexkonstant&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
