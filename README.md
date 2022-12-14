@@ -2,7 +2,7 @@
 ##
 
 <div align="center">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/c8/6f/d3/c86fd3074d75cfa3b81f3dc8e8e99458.jpg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/c8/6f/d3/c86fd3074d75cfa3b81f3dc8e8e99458.jpg" />
 </div>
 
 ##
